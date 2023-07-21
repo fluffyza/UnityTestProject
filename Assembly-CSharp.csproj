@@ -57,7 +57,9 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\SoundVisual.cs" />
+    <Compile Include="Assets\Scripts\Message.cs" />
+    <Compile Include="Assets\Scripts\MessageController.cs" />
+    <Compile Include="Assets\Scripts\SoundVisual.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
